@@ -1,0 +1,6 @@
+.hero {
+    background-image: url(img/TECNM-logo.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: scroll;
+}
