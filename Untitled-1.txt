@@ -1,0 +1,5 @@
+def suma (a, b):
+    print("Esta es una suma:")
+    return a + b
+    
+    def resta (a, b)
